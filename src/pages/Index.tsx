@@ -17,42 +17,42 @@ const sampleProducts: Product[] = [
     id: "1",
     name: "Premium Wireless Headphones",
     description: "High-quality sound with noise cancellation and long battery life.",
-    price: 299.99,
+    price: 15999,
     imageUrl: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop"
   },
   {
     id: "2",
     name: "Smartwatch Pro",
     description: "Track your fitness, receive notifications, and monitor your health with this sleek smartwatch.",
-    price: 249.99,
+    price: 12499,
     imageUrl: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=989&auto=format&fit=crop"
   },
   {
     id: "3",
     name: "Ultra-Thin Laptop",
     description: "Powerful performance in a lightweight design with all-day battery life.",
-    price: 1299.99,
+    price: 65999,
     imageUrl: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1171&auto=format&fit=crop"
   },
   {
     id: "4",
     name: "Digital Camera",
     description: "Capture stunning photos and videos with this professional-grade camera.",
-    price: 899.99,
+    price: 43999,
     imageUrl: "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=1170&auto=format&fit=crop"
   },
   {
     id: "5",
     name: "Portable Bluetooth Speaker",
     description: "Take your music anywhere with this waterproof, durable speaker.",
-    price: 129.99,
+    price: 5999,
     imageUrl: "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?q=80&w=1160&auto=format&fit=crop"
   },
   {
     id: "6",
     name: "Designer Sunglasses",
     description: "Stylish UV protection with premium materials and comfortable fit.",
-    price: 199.99,
+    price: 7999,
     imageUrl: "https://images.unsplash.com/photo-1577803645773-f96470509666?q=80&w=1170&auto=format&fit=crop"
   }
 ];

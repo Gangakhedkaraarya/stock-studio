@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from "react";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogFooter } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
@@ -88,7 +87,7 @@ const EditProductDialog: React.FC<EditProductDialogProps> = ({ product, isOpen, 
             />
           </div>
           <div className="space-y-2">
-            <Label htmlFor="edit-price">Price ($)</Label>
+            <Label htmlFor="edit-price">Price (₹)</Label>
             <Input
               id="edit-price"
               type="number"
